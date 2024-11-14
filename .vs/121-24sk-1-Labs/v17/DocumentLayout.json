@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Studying\\121-24sk-1-Labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED8F8B7-E9BE-4BD9-89B8-093C7CB663E5}|OOP-Lab-4\\OOP-Lab-4.csproj|h:\\studying\\121-24sk-1-labs\\oop-lab-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED8F8B7-E9BE-4BD9-89B8-093C7CB663E5}|OOP-Lab-4\\OOP-Lab-4.csproj|solutionrelative:oop-lab-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Studying\\121-24sk-1-Labs\\OOP-Lab-4\\Program.cs",
+              "RelativeDocumentMoniker": "OOP-Lab-4\\Program.cs",
+              "ToolTip": "H:\\Studying\\121-24sk-1-Labs\\OOP-Lab-4\\Program.cs",
+              "RelativeToolTip": "OOP-Lab-4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:22:53.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
